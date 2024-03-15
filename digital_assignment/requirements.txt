@@ -1,10 +1,10 @@
-tensorflow
-keras
-numpy
-pandas
-scikit-image
 ipykernel
 opencv-python
-matplotlib
-tensorflow_datasets
+numpy
+pandas
 innvestigate
+matplotlib
+scikit-image
+tensorflow
+keras
+tensorflow_datasets
